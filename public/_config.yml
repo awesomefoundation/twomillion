@@ -1,0 +1,15 @@
+# Site settings
+baseurl: ""
+creator: ""
+description: ""
+email: ""
+github_username:  ""
+logo: ""
+subject: ""
+title: ""
+twitter_username: ""
+url: ""
+
+gaTracking: ""
+
+gems: ["jekyll-less"]
