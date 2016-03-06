@@ -1,11 +1,11 @@
 <div id="projects" class="row">
-    {% for project in site.data.projects %}
-    <div class="col-xs-12 col-md-6 col-lg-4 project">
-      <div class="tile">
-        <img class="thumbnail" src="{{ project.thumbnail_image }}"/>
-        <div class="name">{{ project.name }}</div>
-        <div class="chapter">{{ project.chapter }}</div>
+    {% for project in site.data.projects %} 
+      <div class="project">
+        <div class="tile">
+            <img class="thumbnail" src="{{ project.thumbnail_image }}"/>
+            <div class="name">{{ project.name }}</div>
+            <div class="chapter">{{ project.chapter }}</div>
+        </div>
       </div>
-    </div>
     {% endfor %}
 </div>
