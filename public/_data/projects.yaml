@@ -1,0 +1,18 @@
+- name: Some Chicago Project
+  chapter: Chicago
+  date: "January 2015"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/200x200
+  large_image: http://placehold.it/350x350
+- name: Some New York Project
+  chapter: New York
+  date: "December 2014"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/200x200
+  large_image: http://placehold.it/350x350
+- name: Some Ottowa Project
+  chapter: Ottowa
+  date: "July 2013"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/200x200
+  large_image: http://placehold.it/350x350

@@ -1,0 +1,11 @@
+<div id="projects" class="row">
+    {% for project in site.data.projects %}
+    <div class="col-md-3 col-xs-12 project">
+      <div class="tile">
+        <img class="thumbnail" src="{{ project.thumbnail_image }}"/>
+        <div class="name">{{ project.name }}</div>
+        <div class="chapter">{{ project.chapter }}</div>
+      </div>
+    </div>
+    {% endfor %}
+</div>
