@@ -1,18 +1,62 @@
 - name: Some Chicago Project
   chapter: Chicago
   date: "January 2015"
-  descriptions: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/200x200
+  descriptions: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pulvinar nunc mauris,
+    ut rutrum nisl molestie eu. Proin ullamcorper dolor ac mauris rutrum tempor. Integer
+    elementum convallis purus, in consequat augue posuere et. In in volutpat felis.
+    Etiam varius dui in venenatis porttitor. Etiam neque magna, rutrum ut porttitor
+    dapibus, pellentesque aliquet urna. Nunc at augue sollicitudin, luctus mauris
+    venenatis, consectetur justo. Nam vehicula, augue ac dignissim pharetra, mi libero
+    molestie sem, ut porta ante mi eu urna. Vestibulum dignissim pretium tellus sed
+    euismod. Etiam eu neque eget turpis tempus rutrum bibendum sit amet lorem.
+  thumbnail_image: http://placehold.it/230x230
   large_image: http://placehold.it/350x350
 - name: Some New York Project
   chapter: New York
   date: "December 2014"
   descriptions: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/200x200
+  thumbnail_image: http://placehold.it/230x230
   large_image: http://placehold.it/350x350
 - name: Some Ottowa Project
   chapter: Ottowa
   date: "July 2013"
   descriptions: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/200x200
+  thumbnail_image: http://placehold.it/230x230
+  large_image: http://placehold.it/350x350
+- name: Some Ottowa Project
+  chapter: Ottowa
+  date: "July 2013"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/230x230
+  large_image: http://placehold.it/350x350
+- name: Some Ottowa Project
+  chapter: Ottowa
+  date: "July 2013"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/230x230
+  large_image: http://placehold.it/350x350
+- name: Some Ottowa Project
+  chapter: Ottowa
+  date: "July 2013"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/230x230
+  large_image: http://placehold.it/350x350
+- name: Some Ottowa Project
+  chapter: Ottowa
+  date: "July 2013"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/230x230
+  large_image: http://placehold.it/350x350
+- name: Some Ottowa Project
+  chapter: Ottowa
+  date: "July 2013"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/230x230
+  large_image: http://placehold.it/350x350
+- name: Some Ottowa Project
+  chapter: Ottowa
+  date: "July 2013"
+  descriptions: Lorem ipsum dolor
+  thumbnail_image: http://placehold.it/230x230
   large_image: http://placehold.it/350x350

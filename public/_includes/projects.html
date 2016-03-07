@@ -1,11 +1,38 @@
 <div id="projects" class="row">
-    {% for project in site.data.projects %} 
-      <div class="project">
+    {% assign project_id=0 %}
+    {% for project in site.data.projects %}
+      {% assign project_id=project_id | plus:1 %}  
+      <div id="project-{{ project_id }}" class="project">
         <div class="tile">
+          <a class="project-link" href="#project-{{ project_id }}" data-project-id="{{ project_id }}">
             <img class="thumbnail" src="{{ project.thumbnail_image }}"/>
             <div class="name">{{ project.name }}</div>
             <div class="chapter">{{ project.chapter }}</div>
+          </a>
+        </div>
+      </div>
+      <div id="expanded-project-{{ project_id }}" class="project expanded">
+        <div class="tile">
+          <h4>This is a big expanded section {{ project_id }}</h4>
         </div>
       </div>
     {% endfor %}
 </div>
+<script src="/lib/packery/dist/packery.pkgd.min.js"></script>
+<script>
+  var $projects = $('#projects');
+  var packerOpts = {
+    itemSelector: '.project',
+    transitionDuration: 0
+  };
+
+  $('.project-link').click(function(e) {
+    var target = e.target;
+    var linkEl = $(target).closest('.project-link');
+    var projectId = $(linkEl).attr('data-project-id');
+    var $projectEl = $('#expanded-project-' + projectId);
+    $('.project.expanded').removeClass('active');
+    $projectEl.addClass('active');
+    $projects.packery(packerOpts);
+  });
+</script>
