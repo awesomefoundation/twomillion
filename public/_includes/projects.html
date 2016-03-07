@@ -7,13 +7,17 @@
           <a class="project-link" href="#project-{{ project_id }}" data-project-id="{{ project_id }}">
             <img class="thumbnail" src="{{ project.thumbnail_image }}"/>
             <div class="name">{{ project.name }}</div>
-            <div class="chapter">{{ project.chapter }}</div>
           </a>
         </div>
       </div>
       <div id="expanded-project-{{ project_id }}" class="project expanded">
         <div class="tile">
-          <h4>This is a big expanded section {{ project_id }}</h4>
+          <div class="date">
+            {{ project.chapter }} - {{ project.date }}
+          </div>
+          <div class="description">
+            {{ project.description }}
+          </div>
         </div>
       </div>
     {% endfor %}
