@@ -1,11 +1,11 @@
 <div id="projects" class="row">
     {% assign project_id=0 %}
     {% for project in site.data.projects %}
-      {% assign project_id=project_id | plus:1 %}  
+      {% assign project_id=project_id | plus:1 %}
       <div id="project-{{ project_id }}" class="project">
         <div class="tile">
           <a class="project-link" href="#project-{{ project_id }}" data-project-id="{{ project_id }}">
-            <img class="thumbnail" src="{{ project.thumbnail_image }}"/>
+            <img class="thumbnail" src="{{ project.thumbnail_image | default: "http://placehold.it/220x220" }}"/>
             <div class="name">{{ project.name }}</div>
           </a>
         </div>
@@ -13,10 +13,13 @@
       <div id="expanded-project-{{ project_id }}" class="project expanded">
         <div class="tile">
           <div class="date">
-            {{ project.chapter }} - {{ project.date }}
+            {% if project.url %}<a href="{{ project.url }}" target="_blank">{% endif %}
+              {{ project.chapter }}
+              {% if project.date %} - {{ project.date }}{% endif %}
+            {% if project.url %}</a>{% endif %}
           </div>
           <div class="description">
-            {{ project.description }}
+            {{ project.description | default: "Description Needed" }}
           </div>
         </div>
       </div>
@@ -35,8 +38,12 @@
     var linkEl = $(target).closest('.project-link');
     var projectId = $(linkEl).attr('data-project-id');
     var $projectEl = $('#expanded-project-' + projectId);
+    var clickedElementIsAlreadyExpanded = $projectEl.hasClass("active");
     $('.project.expanded').removeClass('active');
-    $projectEl.addClass('active');
+    if (!clickedElementIsAlreadyExpanded) {
+      $projectEl.addClass('active');
+    }
     $projects.packery(packerOpts);
+    return false;
   });
 </script>

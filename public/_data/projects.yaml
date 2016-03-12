@@ -1,62 +1,171 @@
-- name: Some Chicago Project
-  chapter: Chicago
-  date: "January 2015"
+- name: 'Mobile Mending Vardo'
+  chapter: Alaska
+  thumbnail_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F62153%2Foriginal%2FDon-Vardo-Photo-by-Oregon-Home-Magazine.jpg/output/jpg/thumb/940x470%23
+  large_image:
+  date: July 2015
+  url: http://www.awesomefoundation.org/en/projects/50076-mobile-mending-vardo
   description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pulvinar nunc mauris,
-    ut rutrum nisl molestie eu. Proin ullamcorper dolor ac mauris rutrum tempor. Integer
-    elementum convallis purus, in consequat augue posuere et. In in volutpat felis.
-    Etiam varius dui in venenatis porttitor. Etiam neque magna, rutrum ut porttitor
-    dapibus, pellentesque aliquet urna. Nunc at augue sollicitudin, luctus mauris
-    venenatis, consectetur justo. Nam vehicula, augue ac dignissim pharetra, mi libero
-    molestie sem, ut porta ante mi eu urna. Vestibulum dignissim pretium tellus sed
-    euismod. Etiam eu neque eget turpis tempus rutrum bibendum sit amet lorem.
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some New York Project
-  chapter: New York
-  date: "December 2014"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some Ottowa Project
-  chapter: Ottowa
-  date: "July 2013"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some Ottowa Project
-  chapter: Ottowa
-  date: "July 2013"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some Ottowa Project
-  chapter: Ottowa
-  date: "July 2013"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some Ottowa Project
-  chapter: Ottowa
-  date: "July 2013"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some Ottowa Project
-  chapter: Ottowa
-  date: "July 2013"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some Ottowa Project
-  chapter: Ottowa
-  date: "July 2013"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
-- name: Some Ottowa Project
-  chapter: Ottowa
-  date: "July 2013"
-  description: Lorem ipsum dolor
-  thumbnail_image: http://placehold.it/220x220
-  large_image: http://placehold.it/350x350
+    I am building a little vardo (a Romani or gypsy wagon) on a small 5' x 8' trailer. It is sort of like a little camper, with a bed, fold-down table, shelves and a tiny kitchen - but way more romantic. (Google images of 'vardo' to see what I mean!)
+
+    Part of the reason for building the vardo is so I can set up a little mending station and be truly mobile. I have a hand-crank sewing machine for places with no electricity, but will also incorporate electrical outlets and wiring so I can plug the vardo in to power my trusty 1964 Singer sewing machine.
+
+    I plan to visit places around the state, and let folks know in advance that I will take in their mending. Once I'm in a community, I will offer workshops, meet people, listen to their stories, and mend their worn and loved textiles.
+- name: 'Distance Music'
+  chapter: Orlando
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/27893-distance-2
+  description: |
+
+- name: 'Musical Underground'
+  chapter: Ottawa
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/18169-musical-underground-ottawa
+  description: |
+
+- name: 'Dogs Playing Poker: Live'
+  chapter: Ottawa
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/50233-dogs-playing-poker-live
+  description: |
+
+- name: 'Movable Chair'
+  chapter: Boston
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/11350-movable-chair
+  description: |
+
+- name: 'Big Hammock'
+  chapter: Boston
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/188-the-big-hammock
+  description: |
+    The first ever Awesome recipient is still known as one of the best awards given.
+- name: 'Nametag Day'
+  chapter: NYC
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/18133-nametag-day
+  description: |
+
+- name: 'Sandwhich Club Summit'
+  chapter: NYC
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/45864-4th-annual-sandwich-club-summit
+  description: |
+
+- name: 'Popscope'
+  chapter: Baltimore (Philly/Ottawa)
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/43938-baltimore-popscope
+  description: |
+
+- name: 'Awesome Fivers'
+  chapter: Liverpool
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/38879-awesome-fivers
+  description: |
+
+- name: 'Milwaukee Ave Mini Golf Course'
+  chapter: Chicago
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/es/projects/12001-milwaukee-avenue-mini-golf-course
+  description: |
+
+- name: 'Gold Rush'
+  chapter: Amsterdam
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/50597-gold-rush-in-amsterdam
+  description: |
+
+- name: 'OF / ONN'
+  chapter: Seattle
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/7020-of-onn
+  description: |
+    Curated festival of lights in a large warehouse.
+- name: 'Virtual Assistant Movie'
+  chapter: Seattle
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/48311-virtual-assistant-movie
+  description: |
+    What happens when two virtual assistants are hired to make a movie?
+- name: 'Sculpture Bike Rack'
+  chapter: San Antonio
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/15161-sculptural-bicycle-rack
+  description: |
+
+- name: 'Indiana Jones and the Alley of Doom'
+  chapter: Washington DC
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/5071-indiana-jones-and-the-alley-of-doom
+  description: |
+
+- name: 'Funk Parade'
+  chapter: Washington DC
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/29803-funk-parade
+  description: |
+
+- name: 'Floor Charts'
+  chapter: Washington DC
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/25970-floor-charts
+  description: |
+
+- name: 'Door of Opportunity'
+  chapter: Detroit
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/50025-detroit-door-of-opportunity
+  description: |
+
+- name: 'Cozinha Experimental Roots Ativa'
+  chapter: Minas Gerais, Brazil
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/en/projects/56572-cozinha-experimental-roots-ativa
+  description: |
+
+- name: 'Piano! Push Play!'
+  chapter: Portland
+  thumbnail_image:
+  large_image:
+  date:
+  url: http://www.awesomefoundation.org/es/projects/21835-piano-push-play
+  description: |
