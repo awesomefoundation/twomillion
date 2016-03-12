@@ -1,5 +1,5 @@
 # Site settings
-baseurl: ""
+baseurl: "/twomillion" # on Github Pages, change when this goes live
 creator: "The Awesome Foundation"
 description: "We've given out two million dollars in grants!"
 email: ""

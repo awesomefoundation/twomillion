@@ -5,11 +5,11 @@ layout: home
 <div class="home">
   <h4 class="banner">
     <div class="visible-xs-block">
-      <img src="/images/header-small.png">
+      <img src="{{ "/images/header-small.png" | prepend: site.baseurl }} ">
     </div>
 
     <div class="hidden-xs">
-      <img src="/images/header-wide.png">
+      <img src="{{ "/images/header-wide.png" | prepend: site.baseurl }}">
     </div>
   </h4>
   {% include projects.html %}
