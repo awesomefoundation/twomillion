@@ -120,7 +120,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  guard-jekyll-plus
+  guard-jekyll-plus (= 2.0.2)
   jekyll (= 2.5.3)
   jekyll-less (= 0.0.4)
   jekyll-redirect-from
