@@ -81,6 +81,7 @@ body {
   border: 0;
   padding: 0;
   display: inline;
+  max-width: 200px;
 }
 #projects .name {
   font-weight: 700;
@@ -102,7 +103,7 @@ body {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  width: 100%;
+  width: 50%;
   /* copied from AF site */
   border: 1px solid #ff1d5f;
   border-radius: 3px;
