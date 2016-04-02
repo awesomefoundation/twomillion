@@ -22,16 +22,7 @@ test:
     - "curl -sS http://localhost:4000 | grep -q '<title>Spantree Technology Group, LLC</title>'"
 
 deployment:
-  production:
-    branch: master
-    commands:
-      - bundle exec s3_website push --config-dir=public --site=public/_site
-      - "sed -i 's/: www./: /g' public/s3_website.yml"
-      - bundle exec s3_website push --config-dir=public --site=public/_site
-  staging:
+production:
     branch: develop
     commands:
-      - bundle exec s3_website push --config-dir=aws/staging --site=public/_site
-      - "sed -i 's/: www./: /g' aws/staging/s3_website.yml"
-      - bundle exec s3_website push --config-dir=aws/staging --site=public/_site
-
+      - bundle exec s3_website push --config-dir=public --site=public/_site
