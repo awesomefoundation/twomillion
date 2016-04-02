@@ -1,0 +1,102 @@
+@import "../lib/bootstrap/less/variables.less";
+@import "../lib/bootstrap/less/mixins.less";
+
+@hot-pink: #F12973;
+
+html, body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+.about {
+  font-size: 32pt;
+  color: @hot-pink;
+}
+
+.banner {
+  color: @hot-pink;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  text-align: center;
+
+  .visible-xs-block img {
+    width: 100%;
+  }
+}
+
+#projects {
+  .project {
+    .make-xs-column(12);
+    .make-sm-column(6);
+    .make-md-column(4);
+    .make-lg-column(3);
+
+    &.expanded {
+      display: none;
+      .make-xs-column(12);
+      .make-sm-column(12);
+      .make-md-column(12);
+      .make-lg-column(12);
+      padding-top: 10px;
+      padding-bottom: 20px;
+
+      .date {
+        font-weight: 700;
+        margin-bottom: 10px;
+      }
+    }
+
+    &.active {
+      display: inline;
+      max-width: 200px;
+    }
+  }
+
+  img.thumbnail {
+    margin: 10px 0 20px 0;
+    border: 0;
+    padding: 0;
+    display: inline;
+    max-width: 220px;
+    max-height: 220px;
+  }
+  .name {
+    font-weight: 700;
+    color: @hot-pink;
+  }
+  .chapter {
+    font-weight: 300;
+    color: @hot-pink;
+  }
+}
+
+#engagement-avenues {
+  .avenue {
+    margin: 20px 0;
+  }
+
+  h4 {
+    color: @hot-pink;
+  }
+
+  a.call-to-action {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px 0px;
+    width: 50%;
+
+    /* copied from AF site */
+    border: 1px solid #ff1d5f;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 0 0 #fab5ca;
+    background-image: -webkit-linear-gradient(top, #fc6793,#ff2c6a);
+    text-shadow: 0 1px 0 #ff0851;
+    -webkit-background-clip: padding-box;
+    padding: 20px 0px;
+  }
+}
