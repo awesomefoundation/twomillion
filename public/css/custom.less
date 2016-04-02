@@ -33,6 +33,30 @@ html, body {
     .make-md-column(4);
     .make-lg-column(3);
 
+    /* look okay with responsive design */
+    max-width: 250px;
+    min-width: 285px;
+
+    /* this is so hacky! */
+    @media (max-width: 1000px) {
+      /* iPad */
+      left: 17%
+    }
+    @media (max-width: 414px) {
+      /* iPhone 6 */
+      left: 16%;
+    }
+    @media (max-width: 375px) and (orientation: portrait)  {
+      /* iPhone 6 */
+      left: 13%;
+    }
+    @media (max-width: 321px) and (orientation: portrait) {
+      /* iPhone 5 */
+      left: 7%;
+    }
+
+
+
     &:not(.expanded) .tile {
       /* allow titles to wrap onto a second line */
       height: 212px;
