@@ -5,7 +5,7 @@
       <div id="project-{{ project_id }}" class="project">
         <div class="tile">
           <a class="project-link" href="#project-{{ project_id }}" data-project-id="{{ project_id }}">
-            <img class="thumbnail" src="{{ project.thumbnail_image | default: "http://placehold.it/220x220" }}"/>
+            <img class="thumbnail" src="/images/projects/thumbs/{{ project.filename }}.jpg"/>
             <div class="name">{{ project.name }}</div>
           </a>
         </div>

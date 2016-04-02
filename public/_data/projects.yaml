@@ -1,171 +1,81 @@
-- name: 'Mobile Mending Vardo'
-  chapter: Alaska
-  thumbnail_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F62153%2Foriginal%2FDon-Vardo-Photo-by-Oregon-Home-Magazine.jpg/output/jpg/thumb/940x470%23
-  large_image:
-  date: July 2015
-  url: http://www.awesomefoundation.org/en/projects/50076-mobile-mending-vardo
+- name: 'Big Hammock'
+  url: http://www.awesomefoundation.org/en/projects/188-the-big-hammock
+  chapter: Boston
+  thumbnail_image:
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F2219%2Foriginal%2Fhammock_01.jpeg/output/jpg/thumb/940x470%23
+  date: 8/1/2009
+  filename: hammock
   description: |
-    I am building a little vardo (a Romani or gypsy wagon) on a small 5' x 8' trailer. It is sort of like a little camper, with a bed, fold-down table, shelves and a tiny kitchen - but way more romantic. (Google images of 'vardo' to see what I mean!)
-
-    Part of the reason for building the vardo is so I can set up a little mending station and be truly mobile. I have a hand-crank sewing machine for places with no electricity, but will also incorporate electrical outlets and wiring so I can plug the vardo in to power my trusty 1964 Singer sewing machine.
-
-    I plan to visit places around the state, and let folks know in advance that I will take in their mending. Once I'm in a community, I will offer workshops, meet people, listen to their stories, and mend their worn and loved textiles.
+    The Big Hammock was the first application to sway the Boston trustees to award a $1000 Awesome Grant. An enormous 33 foot long hammock on a self-supporting steel frame was located in a Boston park offering swinging good times to the public. Six years later, it is woven through Awesome lore, and continues to be regarded as one of the best projects.  Since then, chapter after chapter has been roped in the world over to suspend boring notions of urban life, and distribute Awesome across the globe.
 - name: 'Distance Music'
+  url: http://www.awesomefoundation.org/en/projects/27893-distance-2
   chapter: Orlando
   thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/27893-distance-2
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F28306%2Foriginal%2FDistance_II__copy.002.jpg/output/jpg/thumb/940x470%23
+  date: 12/1/2013
+  filename: distance music
   description: |
-
-- name: 'Musical Underground'
-  chapter: Ottawa
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/18169-musical-underground-ottawa
-  description: |
-
-- name: 'Dogs Playing Poker: Live'
-  chapter: Ottawa
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/50233-dogs-playing-poker-live
-  description: |
-
+    Distance Music was designed to take advantage of the delay caused by the speed of sound over distance by placing sound sources far away from the audience.  Members of the audience walked around a lake, while a series of airhornes and brass bands played music at different points.  The music an audience member heard was dependant on which sounds reached them first.
 - name: 'Movable Chair'
-  chapter: Boston
-  thumbnail_image:
-  large_image:
-  date:
   url: http://www.awesomefoundation.org/en/projects/11350-movable-chair
-  description: |
-
-- name: 'Big Hammock'
   chapter: Boston
   thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/188-the-big-hammock
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F52%2Foriginal%2FMovableChair2.jpg/output/jpg/thumb/940x470%23
+  date: 3/1/2011
+  filename: movable chair
   description: |
-    The first ever Awesome recipient is still known as one of the best awards given.
+    This project provides a sticker to modify the International Symbol of Access, the standard white-on-blue image of a person in a wheelchair, to show a person being more active.  It has gained so much popularity, that it is now part of the permanent collection in the Museum of Modern Art.
 - name: 'Nametag Day'
-  chapter: NYC
-  thumbnail_image:
-  large_image:
-  date:
   url: http://www.awesomefoundation.org/en/projects/18133-nametag-day
-  description: |
-
-- name: 'Sandwhich Club Summit'
   chapter: NYC
   thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/45864-4th-annual-sandwich-club-summit
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F16163%2Foriginal%2Fnametag-day.gif/output/jpg/thumb/940x470%23
+  date: 4/1/2013
+  filename: nametag day
   description: |
-
+    On most days of the year, you pass by your fellow pedestrians without noticing them, but on Nametag Day, you'll have a chance to break the ice with total strangers.  Volunteers stand at certain corners, give out nametags and encourage people to say hi to anyone else with a nametag during the day.  What started as an Awesome Grant in NYC back in 2014 has now spread to other cities in the US and to Brazil.
 - name: 'Popscope'
-  chapter: Baltimore (Philly/Ottawa)
+  url: http://www.awesomefoundation.org/en/projects/29762-ottawa-popscope
+  chapter: Ottawa
   thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/43938-baltimore-popscope
+  large_image: https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12832312_1784813835086735_6330694088688884136_n.jpg?oh=4e7804be3551c20960c3882fec63653d&oe=577D17BC
+  date: 2/1/2014
+  filename: popscope
   description: |
-
+    #PopScope is short for Pop Up Telescope, and they have instigated a rash of public astronomy viewings across North America. When neighbours kept on asking to see through the founders telescope, they wondered what would happen if they gave the same opportunity to people across the city.  The intial Ottawa award was followed by Awesome grants in Baltimore and Philadelphia for their own #PopScope chapters.
 - name: 'Awesome Fivers'
+  url: http://www.awesomefoundation.org/en/projects/38879-awesome-fivers
   chapter: Liverpool
   thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/38879-awesome-fivers
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F72479%2Foriginal%2FB4KhU0vIQAAncCm.jpg/output/jpg/thumb/940x470%23
+  date: 11/1/2014
+  filename: awesome fivers
   description: |
-
-- name: 'Milwaukee Ave Mini Golf Course'
-  chapter: Chicago
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/es/projects/12001-milwaukee-avenue-mini-golf-course
-  description: |
-
-- name: 'Gold Rush'
-  chapter: Amsterdam
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/50597-gold-rush-in-amsterdam
-  description: |
-
-- name: 'OF / ONN'
-  chapter: Seattle
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/7020-of-onn
-  description: |
-    Curated festival of lights in a large warehouse.
-- name: 'Virtual Assistant Movie'
-  chapter: Seattle
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/48311-virtual-assistant-movie
-  description: |
-    What happens when two virtual assistants are hired to make a movie?
-- name: 'Sculpture Bike Rack'
-  chapter: San Antonio
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/15161-sculptural-bicycle-rack
-  description: |
-
+    What happens when you hide money in pink envelopes all over a city?  The city of Liverpool found out, with a campaign called Awesome Fivers. Designed to encourage social sharing, the envelopes contained a £5 bill and a note asking them to share the awesome story with 10 people they know.  The project has since been replicated in many other cities.
 - name: 'Indiana Jones and the Alley of Doom'
-  chapter: Washington DC
-  thumbnail_image:
-  large_image:
-  date:
   url: http://www.awesomefoundation.org/en/projects/5071-indiana-jones-and-the-alley-of-doom
-  description: |
-
-- name: 'Funk Parade'
   chapter: Washington DC
   thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/29803-funk-parade
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F1707%2Foriginal%2Fpreenactment.jpeg/output/jpg/thumb/940x470%23
+  date: 8/1/2011
+  filename: indiana jones
   description: |
-
-- name: 'Floor Charts'
-  chapter: Washington DC
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/25970-floor-charts
-  description: |
-
-- name: 'Door of Opportunity'
-  chapter: Detroit
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/50025-detroit-door-of-opportunity
-  description: |
-
-- name: 'Cozinha Experimental Roots Ativa'
-  chapter: Minas Gerais, Brazil
-  thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/en/projects/56572-cozinha-experimental-roots-ativa
-  description: |
-
+    Who would turn down a chance to re-enact the famous Indiana Jones scene from Raiders of the Lost Arc?  Thanks to this Awesome Grant, some lucky people got that chance, complete with giant rock and swinging on ropes.
 - name: 'Piano! Push Play!'
+  url: http://www.awesomefoundation.org/es/projects/21835-piano-push-play
   chapter: Portland
   thumbnail_image:
-  large_image:
-  date:
-  url: http://www.awesomefoundation.org/es/projects/21835-piano-push-play
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F66964%2Foriginal%2FPianoPushPlay.jpeg/output/jpg/thumb/940x470%23
+  date: 8/1/2013
+  filename: piano
   description: |
+    Recipients of this Awesome Grant placed four pianos in public spaces around the city.  In addition to inviting the public to play them, concerts were organized around each piano over a two week period.  At the end of the summer, the pianos were presented to students that could not afford their own instrument, as well as community spaces.
+- name: 'Tea With Strangers'
+  url: http://www.awesomefoundation.org/en/projects/42969-tea-with-strangers
+  chapter: YEREVAN
+  thumbnail_image:
+  large_image: http://img.awesomefoundation.org/q/src/https%3A%2F%2Faf-production.s3.amazonaws.com%2Fphotos%2Fimages%2F50434%2Foriginal%2F1601411_1585065158382378_130925859641566170_n.jpg/output/jpg/thumb/940x470%23
+  date: 2/1/2015
+  filename: tea-with-strangers
+  description: |
+    A project to bring together strangers in Armenia by inviting people in public spaces to share in some traditional tea.  The stories told in these sessions get shared on Facebook for other people to experience.  Tea With Strangers intends to bring the experience to other cities in Armenia and Artsakh and help erase borders.

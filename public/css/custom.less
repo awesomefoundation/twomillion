@@ -33,6 +33,11 @@ html, body {
     .make-md-column(4);
     .make-lg-column(3);
 
+    &:not(.expanded) .tile {
+      /* allow titles to wrap onto a second line */
+      height: 212px;
+    }
+
     &.expanded {
       display: none;
       .make-xs-column(12);
@@ -50,7 +55,6 @@ html, body {
 
     &.active {
       display: inline;
-      max-width: 200px;
     }
   }
 
@@ -60,7 +64,7 @@ html, body {
     padding: 0;
     display: inline;
     max-width: 220px;
-    max-height: 220px;
+    max-height: 110px;
   }
   .name {
     font-weight: 700;
