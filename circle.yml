@@ -19,7 +19,7 @@ test:
     - "while ! echo exit | nc localhost 4000; do sleep 1; done":
         timeout: 30
   override:
-    - "curl -sS http://localhost:4000 | grep -q '<title>\$2 million of Awesome Foundation!</title>'"
+    - "curl -sS http://localhost:4000 | grep -q '<title>$2 million of Awesome Foundation!</title>'"
 
 deployment:
   production:
