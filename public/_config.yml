@@ -1,14 +1,14 @@
 # Site settings
 baseurl: ""
 creator: "The Awesome Foundation"
-description: "We've given out two million dollars in grants!"
+description: "We've given out over two million dollars in grants!"
 email: ""
 github_username:  ""
-logo: "/images/logo.png"
-subject: "Awesome Foundation"
+logo: "/images/header-small.png"
+subject: "The Awesome Foundation"
 title: "$2 million of Awesome Foundation!"
 twitter_username: "@awesomefound"
-url: "http://awesomefoundation.org"
+url: "http://twomillion.awesomefoundation.org"
 copyright: "The Awesome Foundation 2016"
 
 gaTracking: ""
