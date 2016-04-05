@@ -12,6 +12,6 @@ twitter_username: "@awesomefound"
 url: "http://twomillion.awesomefoundation.org"
 copyright: "The Awesome Foundation 2016"
 
-gaTracking: ""
+gaTracking: "UA-9594800-3"
 
 gems: ["jekyll-less"]
